@@ -1,2 +1,15 @@
 @charset "UTF-8";
 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: #7C5E99;
+}
+
+a{
+    color: white;
+    font-size: 20px;
+}
