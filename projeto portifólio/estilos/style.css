@@ -38,3 +38,8 @@ a:before{
     box-shadow: 5px 5px 0px #000000;
     margin-right: 0;
 }
+
+#button:hover{
+    cursor: pointer;
+    background-color: #CF4C60;
+}
