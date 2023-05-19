@@ -9,7 +9,7 @@ header{
     padding: 10px 20px;
 }
 
-h1{
+.titleHeader{
     font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
     color: #fff;
     text-shadow: 5px 5px 0px #000000;
@@ -50,4 +50,36 @@ a:before{
     transform: scale(1.08);
     cursor: pointer;
     background-color: #CF4C60;
+}
+
+#containerMain{
+    display: inline-block;
+    background-color: #3A4042;
+    position: absolute;
+    width: 627px;
+    height: 184px;
+    left: 91px;
+    top: 196px;
+    box-shadow: 7px 7px 0px #000000;
+    margin-right: 0;
+    text-align: center;
+}
+
+#containerMain .name{
+    color: #f25a70;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    size: 40px;
+    line-height: 40px;
+    text-shadow: 4px 4px 0px #000000;
+    padding: 30px
+}
+
+#containerMain .front{
+    color: #fff;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-shadow: 4px 4px 0px #000000;
 }
