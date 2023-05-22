@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#box{
+    display: inline-block;
+    background-color: #3A4042;
+    position: absolute;
+    width: 627px;
+    height: 184px;
+    left: 91px;
+    top: 196px;
+    box-shadow: 7px 7px 0px #000000;
+    margin-right: 0;
+    text-align: center;
+}
