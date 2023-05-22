@@ -1,6 +1,16 @@
 @charset "UTF-8";
 
+body{
+	font-family: "Fira Code", Arial, Helvetica, sans-serif;
+}
+
 *{
 	margin: 0px;
 	padding: 0px;
+}
+
+button{
+	border: none;
+	font-family: inherit;
+
 }
