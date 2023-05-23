@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-#box{
+.box{
     display: inline-block;
     background-color: #3A4042;
     position: absolute;
