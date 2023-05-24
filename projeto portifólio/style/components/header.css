@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-header{
+.header{
     display: flex;
     justify-content: space-between;
     align-items: center;
